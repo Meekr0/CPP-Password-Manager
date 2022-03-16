@@ -1,0 +1,3 @@
+C:/Users/PiratPL52/Desktop/Code/CPP/PJC/PJC_Projekt_1/cmake-build-debug/CMakeFiles/PJC_Projekt_1.dir
+C:/Users/PiratPL52/Desktop/Code/CPP/PJC/PJC_Projekt_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PiratPL52/Desktop/Code/CPP/PJC/PJC_Projekt_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
